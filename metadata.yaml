@@ -1,0 +1,23 @@
+_repo: Janice-Day-the-Young-Homemaker_2483
+creator:
+  author:
+    agent_name: Long, Helen Beecher
+    gutenberg_agent_id: '931'
+    url: http://www.gutenberg.org/2009/agents/931
+description: ''
+gutenberg_issued: '2001-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Fathers and daughters -- Juvenile fiction'
+- !lcsh 'Social classes -- Juvenile fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+title: Janice Day, the Young Homemaker
+url: http://www.gutenberg.org/ebooks/2483
