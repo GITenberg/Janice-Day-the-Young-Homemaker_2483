@@ -1,5 +1,5 @@
 _repo: Janice-Day-the-Young-Homemaker_2483
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ subjects:
 - !lcsh 'Social classes -- Juvenile fiction'
 - !lcc 'PS'
 - !lcc 'PZ'
+- GITenberg
 title: Janice Day, the Young Homemaker
 url: http://www.gutenberg.org/ebooks/2483
